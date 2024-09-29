@@ -4,3 +4,4 @@ torchvision
 Pillow
 opencv-python-headless
 cv2
+opencv-python
